@@ -1,30 +1,24 @@
 🚀 Technical Profile: Joseph
-Aspiring Network & Cloud Engineer | Currently building foundations in Linux, Networking, and Cloud-Native systems.
+Aspiring Network & Cloud Engineer | Building foundations in Linux, Networking, and Cloud-Native systems.
 
 🎯 Current Focus
 Target Role: NOC Technician / Junior Network Engineer
 
 Currently Learning: Cisco CCNA (200-301)
 
-Academic Path: High School Class of 2028 🎓 (Future WGU Computer Science student)
+Academic Path: High School Class of 2028 🎓 (Targeting WGU Computer Science)
 
 💻 Technical Labs & Experience
 OverTheWire Bandit
-Focused on mastering the Linux Command Line (CLI).
+Mastering the Linux Command Line (CLI) and system security.
 
-Skills: SSH, Grep, File Permissions, Hex-dumps, Cronjobs, and Shell Scripting.
+Key Skills: SSH, Grep, Permissions, Hex-dumps, and Shell Scripting.
 
-Objective: Solving security puzzles to understand system architecture from the ground up.
+Proof of Work: https://github.com/Jboiboi/Lab-Ex-Linux/tree/main/Bandit-Levels
 
-LabEx Hands-on Training
+LabEx Hands-on Labs
 Applying theory to cloud-native workflows.
 
-DevOps: Docker containerization and Kubernetes orchestration.
+DevOps: Docker containerization and Kubernetes orchestration basics.
 
-Infrastructure: Exploring CI/CD pipelines and cloud-native application deployments.
-
-Linux Admin: Advanced system configuration and troubleshooting.
-
-🛠️ Toolbelt
-📈 Why what I'm doing matters:
-I don't just follow tutorials; I solve problems. Whether it's reversing a hexdump in a Bandit level or configuring a virtual network in a lab environment, I am dedicated to understanding the "how" and "why" of modern infrastructure.
+Admin: Advanced Linux system configuration and troubleshooting.
